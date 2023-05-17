@@ -1,4 +1,5 @@
 import streamlit as st
+import plotly
 import plotly.graph_objs as go
 import requests
 import pandas as pd
